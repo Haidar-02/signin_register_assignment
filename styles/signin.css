@@ -20,3 +20,11 @@ body {
     background-size: 2750px;
   }
 }
+
+.signin-container {
+  background-image: url("../assets/stars.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  background-color: #6c757d;
+}
